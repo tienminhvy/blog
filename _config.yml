@@ -8,7 +8,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
+author: Tiền Minh Vy # add your name
 author-pic: author.png
 about-author: Tôi là Tiền Minh Vy. Là một lập trình viên có nhiều kinh nghiệm với mã nguồn PHP. Nhận dự án Freelance nếu bạn cần. Mình rất ưa chuộng mã nguồn mở
 
