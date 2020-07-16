@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Nhận dự án Freelance. Ưa chuộng mã nguồn mở
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tienminhvy.name.vn/blog" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Tiền Minh Vy # add your name
@@ -25,9 +25,6 @@ pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
-
-# Disqus
-discus_identifier: # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
